@@ -15,7 +15,7 @@ This repository contains a **Python implementation** of a **nonlinear Variationa
 
 - **Nonlinear Ansatz**  
   - Utilizes standard **\( RY \) gates**.  
-  - Incorporates **controlled \( RY \) gates** with angles proportional to \( \sin(\theta)^2 \).  
+  - Incorporates **controlled \( RY \) gates** with angles proportional to $\sin(\theta)^2$.  
 
 - **Nonlinear Objective Function**  
   - Includes a **quadratic penalty term** to introduce additional complexity.  
